@@ -1,3 +1,3 @@
-<h1 style="color: blue; text-align: center">JEDHA-projects</h1>
+# JEDHA-projects
 
 Projects realized during **JEDHA data scisnce Bootcamp**
